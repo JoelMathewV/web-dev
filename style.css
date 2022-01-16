@@ -1,6 +1,33 @@
 body{
-    background-color: violet;
+    background-color: rgb(142, 194, 224);
+    margin: 0;
 }
 p{
-    color: bisque;
+    color: rgb(182, 103, 6);
+    display: flex;
+}
+h1:hover{
+    color: red ;
+}
+.text{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 20px;
+    border: solid 10px;
+}
+.red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+    border: solid 20px;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    border: solid 10px;
 }
